@@ -5,4 +5,4 @@ Hi! Im' Kemilly, currently living in Brazil, Curitiba.
 
 ## 
  
- ![Snake animation](https://github.com/jonathanoliveira9/jonathanoliveira9/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/kemillysantos-lab/kemillysantos-lab/blob/output/github-contribution-grid-snake.svg)
