@@ -12,4 +12,4 @@
   
 </div>
 
-![Snake animation](https://github.com/kemillysantos-lab/kemillysantos-lab)
+![Snake animation](https://github.com/kemillysantos-lab/kemillysantos-lab/blob/output/github-contribution-grid-snake.svg)
